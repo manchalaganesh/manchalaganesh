@@ -35,13 +35,10 @@
 
 ---
 
-## 📊 GitHub Analytics
-
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manchalaganesh&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manchalaganesh&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manchalaganesh&theme=github-dark&hide_border=true&area=true" />
 </p>
-
 ---
 
 ## 📈 Contribution Activity
